@@ -44,9 +44,21 @@ netflix-clone/
 └── README.md
 ```
 <div align="center">
-  <img src="screenshots/home-page.png" width="300">
-  <img src="screenshots/trending-section.png" width="300">
-  <img src="screenshots/footer-section.png" width="300">
+  <table>
+    <tr>
+      <td>
+        <img src="screenshots/home-page.png" width="400">
+      </td>
+      <td>
+        <img src="screenshots/trending-section.png" width="400">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="screenshots/footer-section.png" width="800">
+      </td>
+    </tr>
+  </table>
 </div>
 
 
