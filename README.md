@@ -42,6 +42,6 @@ netflix-clone/
 ├── index.html
 ├── style.css
 └── README.md
-
+```
 <img src="screenshots/home-page.png" width="800">
 
