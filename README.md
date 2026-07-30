@@ -9,7 +9,7 @@ A responsive Netflix landing page clone built with **HTML5 and CSS3**, inspired 
 
 **🔗 Live Demo:** *(add your deployed link here once hosted on GitHub Pages / Vercel)*
 
----
+--- 
 
 ## Table of Contents
 
