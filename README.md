@@ -11,7 +11,7 @@ A responsive Netflix landing page clone built with **HTML5 and CSS3**, inspired 
 
 --- 
 
-## Table of Contents
+## Table of Contents 
 
 - [Overview](#overview)
 - [Page Structure](#page-structure)
